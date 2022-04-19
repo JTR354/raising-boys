@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "bdb5a0d9c6d5fa60",
+    "type": "split",
+    "children": [
+      {
+        "id": "da1f05befbe9eb05",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01-爸爸妈妈双方教育观点不同怎么办.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb943ce24b948ad9",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c7734c3e2f8bc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e9f4cde775691fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd5ceede651c9d68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "63e536ace90c9f7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "1da1a5af19f9e4d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "780938655d90d673",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01-爸爸妈妈双方教育观点不同怎么办.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "da1f05befbe9eb05",
+  "lastOpenFiles": [
+    "01-爸爸妈妈双方教育观点不同怎么办.md",
+    "README.md"
+  ]
+}

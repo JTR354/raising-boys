@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "02-给孩子一个温馨和谐的家庭氛围.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "02-给孩子一个温馨和谐的家庭氛围.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,7 @@
   },
   "active": "da1f05befbe9eb05",
   "lastOpenFiles": [
+    "02-给孩子一个温馨和谐的家庭氛围.md",
     "README.md",
     "01-爸爸妈妈双方教育观点不同怎么办.md"
   ]

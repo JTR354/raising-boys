@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "47-别让小霸王在家中作威作福.md",
             "mode": "source",
+            "backlinks": true,
             "source": false
           }
         }
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "47-别让小霸王在家中作威作福.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +90,7 @@
   },
   "active": "da1f05befbe9eb05",
   "lastOpenFiles": [
+    "47-别让小霸王在家中作威作福.md",
     "README.md",
     "46-你会讲故事吗.md",
     "45-如何批评也是一门学问.md",
@@ -97,7 +99,6 @@
     "42-没完没了地抱怨只能使孩子们感到无聊.md",
     "41-对明知故犯的孩子如何进行教育.md",
     "40-孩子做错了,要不要惩罚.md",
-    "39-夸奖不需要挑时间, 时刻都准备夸他.md",
-    "38-在其他人的面前多夸夸他.md"
+    "39-夸奖不需要挑时间, 时刻都准备夸他.md"
   ]
 }

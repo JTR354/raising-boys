@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "47-别让小霸王在家中作威作福.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "47-别让小霸王在家中作威作福.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,8 +90,8 @@
   },
   "active": "da1f05befbe9eb05",
   "lastOpenFiles": [
-    "47-别让小霸王在家中作威作福.md",
     "README.md",
+    "47-别让小霸王在家中作威作福.md",
     "46-你会讲故事吗.md",
     "45-如何批评也是一门学问.md",
     "44-千万不要对孩子进行语言暴力.md",

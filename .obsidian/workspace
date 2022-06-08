@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "51-不要揪着他的错不放手.md",
+            "file": "README.md",
             "mode": "source",
             "backlinks": true,
             "source": false
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "51-不要揪着他的错不放手.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,8 +90,8 @@
   },
   "active": "da1f05befbe9eb05",
   "lastOpenFiles": [
-    "51-不要揪着他的错不放手.md",
     "README.md",
+    "51-不要揪着他的错不放手.md",
     "50-制定家规，学会如何约束他.md",
     "49-你要学会对他说“不”.md",
     "48-夸奖他要有分寸，不要过分夸奖.md",
